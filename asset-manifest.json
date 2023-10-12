@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/f4-bookstore/static/css/main.71762078.css",
+    "main.js": "/f4-bookstore/static/js/main.41eaf7cc.js",
+    "static/media/IMG20210528181544.svg": "/f4-bookstore/static/media/IMG20210528181544.ee767c77562eb27f64d7c4b713dc52a5.svg",
+    "static/media/Frame 3.svg": "/f4-bookstore/static/media/Frame 3.ea32c22d2b158b704281734e35db7fdd.svg",
+    "static/media/Frame 1.svg": "/f4-bookstore/static/media/Frame 1.92f934926686bb94f0fc2db8e66c1482.svg",
+    "static/media/Frame 2.svg": "/f4-bookstore/static/media/Frame 2.ee047c0d00d79320f80da26d27038cba.svg",
+    "static/media/Standard.svg": "/f4-bookstore/static/media/Standard.4eda4102174ce98098fa76bc2191168d.svg",
+    "static/media/KeazoNBOOKS.svg": "/f4-bookstore/static/media/KeazoNBOOKS.3fd4fcf3f0255bd221929612acb29196.svg",
+    "static/media/fluent_premium-person-20-regular.svg": "/f4-bookstore/static/media/fluent_premium-person-20-regular.07e71b28def48c791a920474b9c178cb.svg",
+    "static/media/ant-design_search-outlined.svg": "/f4-bookstore/static/media/ant-design_search-outlined.2fdd9dab5340e8bcfb472a99b781830d.svg",
+    "static/media/bx_bx-book-heart.svg": "/f4-bookstore/static/media/bx_bx-book-heart.3b35553df84554eee73cd76ffe3e06d9.svg",
+    "static/media/ic_round-notifications-none.svg": "/f4-bookstore/static/media/ic_round-notifications-none.53e48dc0bd5e13b273bf58288d9380a9.svg",
+    "index.html": "/f4-bookstore/index.html",
+    "main.71762078.css.map": "/f4-bookstore/static/css/main.71762078.css.map",
+    "main.41eaf7cc.js.map": "/f4-bookstore/static/js/main.41eaf7cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71762078.css",
+    "static/js/main.41eaf7cc.js"
+  ]
+}
